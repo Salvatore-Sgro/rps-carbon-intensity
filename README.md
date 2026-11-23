@@ -3,7 +3,7 @@
 A state-level policy evaluation of renewable portfolio standards (RPS) from a group project for
 ECON 474 at the University of Illinois Urbana-Champaign (Fall 2026).
 
-**Team:** [TEAMMATE NAMES]. I (Salvatore Sgro) built the dataset (`build_panel.py`) and wrote the
+**Team:** Group project with 3 classmates. I (Salvatore Sgro) built the dataset (`build_panel.py`) and wrote the
 analysis (`rps_analysis.R`).
 
 ## Question
