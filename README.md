@@ -30,8 +30,8 @@ coal, gas and renewable generation shares) and effects by adoption cohort.
 ## Main results
 - Carbon intensity fell about **10%** after RPS enactment (overall ATT of about -0.11 log points), and
   about 13% on average 9-15 years after enactment.
-- The 95% confidence interval is wide (about -20% to 0%), because there are only 46 state clusters.
-  Standard errors are bootstrapped, so p-values change slightly between runs.
+- Standard errors are analytic and clustered by state. The main estimate is -10.5% (p = 0.047), with a
+  wide 95% confidence interval of -19.8% to -0.1%, because there are only 46 state clusters.
 - Across the alternative specifications, estimates ranged from -4.5% to -15.4%. The two-way fixed
   effects versions and the version that adds back Vermont and DC are not statistically significant.
 - Pre-trends: a joint test does not reject parallel pre-trends.
